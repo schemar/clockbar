@@ -1,0 +1,17 @@
+{
+  "name": "clockbar",
+  "version": "1.0.0",
+  "description": "A simple bar with minimal information for Übersicht on macOS",
+  "repository": "https://github.com/schemar/clockbar.git",
+  "author": "Martin Schenck <martinschenck@fastmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "pretty": "yarn prettier --write ."
+  },
+  "dependencies": {
+    "moment": "^2.26.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
