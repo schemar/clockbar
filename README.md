@@ -6,11 +6,11 @@ Based on [Bar](https://github.com/callahanrts/bar).
 
 ![screenshot](./screenshot.png)
 
-* CPU usage
-* Memory usage
-* Battery
-* Date
-* Time
+- CPU usage
+- Memory usage
+- Battery
+- Date
+- Time
 
 On the left, the bar shows CPU and memory usage.
 On the right side, it shows battery status (including whether it is charging), date, and time.

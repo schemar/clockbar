@@ -41,14 +41,15 @@ const barStyle = {
   left: 0,
   right: 0,
   position: "fixed",
-  background: "#4c566a",
-  color: "#d8dee9",
+  background: "#2e3440",
+  color: "#eceff4",
   overflow: "hidden",
   height: "15px",
   fontFamily: "DejaVuSansMono Nerd Font",
   fontSize: "14px",
   padding: "0",
   margin: "0",
+  boxShadow: "0 0 5px black",
 };
 
 const rightStyle = {
