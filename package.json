@@ -9,7 +9,7 @@
     "pretty": "yarn prettier --write ."
   },
   "dependencies": {
-    "moment": "^2.29.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
